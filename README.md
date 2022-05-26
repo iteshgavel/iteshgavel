@@ -2,7 +2,7 @@
 - 🌱 I’m currently pursuing my B.Tech in Computer Science & Engineering @ NIT Raipur.
 - 👀 I’m interested in C++ Programming and Front-End Development.
 - 💞️ I’m looking to collaborate on Tech Companies as an Intern or Entry-Level Engineer.
-- 📫 You can Reach me via Emai - iteshgavel@gmail.com
+- 📫 You can Reach me via Email - iteshgavel@gmail.com
 
 <!---
 iteshgavel/iteshgavel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
