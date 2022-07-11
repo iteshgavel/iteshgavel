@@ -4,12 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 👋 &nbsp;Hi, I’m Itesh Kumar Gavel.
-
 🎓 &nbsp;I’m currently pursuing my B.Tech in Computer Science & Engineering @ NIT Raipur.\
 💞️ &nbsp;I’m interested in C++ Programming, Problem Solving and Front-End Development.\
-👀 &nbsp;As I’m fresher so I'm looking to collaborate with some Tech Companies as an Intern or Entry-Level Engineer.\ 
+👀 &nbsp;As I’m fresher so I'm looking to collaborate with some Tech Companies as an Intern or Entry-Level Engineer.\
 💡 &nbsp;I also want to explore new technologies and develop software solutions and quick hacks.\
-📫 &nbsp;I'm on track for learning more about Machine Learning, Deep Learning & Artificial Intelligence.\ 
+📫 &nbsp;I'm on track for learning more about Machine Learning, Deep Learning & Artificial Intelligence.\
 🌱 &nbsp;Apart from my academics, I'm also interested in Teaching, Gardening and Agriculturing.\
 ✉️ &nbsp;You can shoot me an email at iteshgavel@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://www.iteshgavel.ga/resource/Itesh_Gavel_Resume.pdf) for more details about me.
