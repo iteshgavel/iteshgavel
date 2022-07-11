@@ -30,6 +30,12 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+### 🛠 &nbsp;Programming Profiles
+<p align="center">
+<a href="https://leetcode.com/iteshgavel/"><img src="https://img.shields.io/badge/-Leetcode-3423A6?style=flat&logo=leetcode&logoColor=white"/></a>
+<a href="https://auth.geeksforgeeks.org/user/iteshgavel/profile"><img src="https://img.shields.io/badge/-GeeksforGeeks-0077B5?style=flat&logo=gfg&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/iteshgavel"><img src="https://img.shields.io/badge/-Hackerrank-D14836?style=flat&logo=hackerrank&logoColor=white"/></a>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
