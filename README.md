@@ -3,9 +3,8 @@ iteshgavel/iteshgavel is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👋 &nbsp;Hi, I’m Itesh Kumar Gavel.
 
-👋 &nbsp;Hi, I’m Itesh Kumar Gavel.\
 🎓 &nbsp;I’m currently pursuing my B.Tech in Computer Science & Engineering @ NIT Raipur.\
 💞️ &nbsp;I’m interested in C++ Programming, Problem Solving and Front-End Development.\
 👀 &nbsp;As I’m fresher so I'm looking to collaborate with some Tech Companies as an Intern or Entry-Level Engineer.\ 
