@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 📫 &nbsp;I'm on track for learning more about Machine Learning, Deep Learning & Artificial Intelligence.\
 🌱 &nbsp;Apart from my academics, I'm also interested in Teaching, Gardening and Agriculturing.\
 ✉️ &nbsp;You can shoot me an email at iteshgavel@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://www.iteshgavel.ga/resource/Itesh_Gavel_Resume.pdf) for more details about me.
+📄 &nbsp;Please have a look at my [Portfolio](https://iteshgavel.github.io/IteshGavelPortfolio/) for more details about me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=javascript)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
