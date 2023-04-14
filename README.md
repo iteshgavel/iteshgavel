@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes.
 🎓 &nbsp;I’m currently completing my Intership as Associate Software Engineer at MAQ Software.\
 🎓 &nbsp;I’m also a final year undergratudate in B.Tech-Computer Science & Engineering @ NIT Raipur.\
 💞️ &nbsp;I’m interested in C++ Programming, Front-End Development and Problem Solving.\
-<!-- 👀 &nbsp;I'm looking forward to collaborate with some Tech Companies as an Intern or Entry-Level Engineer.\ -->
 💡 &nbsp;I also want to explore new technologies and develop software solutions and quick hacks.\
 📫 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning & Deep Learning.\
 🌱 &nbsp;Apart from my academics, I'm interested in Teaching, Gardening and Agriculturing.\
