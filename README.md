@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 👋 &nbsp;Hi, I’m Itesh Kumar Gavel.
-🎓 &nbsp;I’m currently completing my Intership as Associate Software Engineer at MAQ Software.\
+🎓 &nbsp;I’m currently completing my Intership as Associate Software Engineer in MAQ Software.\
 🎓 &nbsp;I’m also a final year undergratudate in B.Tech-Computer Science & Engineering @ NIT Raipur.\
 💞️ &nbsp;I’m interested in C++ Programming, Front-End Development and Problem Solving.\
 💡 &nbsp;I also want to explore new technologies and develop software solutions and quick hacks.\
