@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <a href="https://iteshgavel.github.io/IteshGavelPortfolio/"><img src="https://img.shields.io/badge/-www.iteshgavel.ga-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/iteshkumargavel/"><img src="https://img.shields.io/badge/-Itesh%20Kumar%20Gavel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/iteshgavel/"><img src="https://img.shields.io/badge/-Itesh%20Kumar%20Gavel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:iteshgavel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-iteshgavel@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/iteshgavel/" target="_blank"><img src="https://img.shields.io/badge/-@iteshgavel-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/iteshgavel/" target="_blank"><img src="https://img.shields.io/badge/-@iteshgavel-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
