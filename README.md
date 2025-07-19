@@ -4,14 +4,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 👋  Hi, I’m Itesh Kumar Gavel
-💼  Software Engineer 1 at MAQ Software, specializing in Data Engineering and Analytics.
-🎓  Graduated with a B.Tech in Computer Science & Engineering from NIT Raipur.
-🏗️  Experienced in building automated ETL pipelines using Azure Fabric, Data Factory, and Databricks.
-📊  Skilled in Power BI, SQL, and Microsoft Fabric for developing insightful dashboards and scalable data solutions.
-📌  Microsoft Certified: Fabric Data Engineer Associate and Fabric Analytics Engineer Associate.
-💡  Actively learning Machine Learning, Cloud Platforms (AWS, GCP), and exploring AI-driven analytics.
-🌱  Beyond tech, I enjoy teaching, gardening, and sustainable agriculture.
-✉️  Reach out at iteshgavel@gmail.com — happy to connect!
+💼  Software Engineer 1 at MAQ Software, specializing in Data Engineering and Analytics. \
+🎓  Graduated with a B.Tech in Computer Science & Engineering from NIT Raipur. \
+🏗️  Experienced in building automated ETL pipelines using Azure Fabric, Data Factory, and Databricks. \
+📊  Skilled in Power BI, SQL, and Microsoft Fabric for developing insightful dashboards and scalable data solutions. \
+📌  Microsoft Certified: Fabric Data Engineer Associate and Fabric Analytics Engineer Associate. \
+💡  Actively learning Machine Learning, Cloud Platforms (AWS, GCP), and exploring AI-driven analytics. \
+🌱  Beyond tech, I enjoy teaching, gardening, and sustainable agriculture. \
+✉️  Reach out at iteshgavel@gmail.com — happy to connect! \
 📄 &nbsp;Please have a look at my [Portfolio](https://iteshgavel.github.io/IteshGavelPortfolio/) for more details about me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
