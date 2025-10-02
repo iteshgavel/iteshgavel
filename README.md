@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 👋  Hi, I’m Itesh Kumar Gavel
-💼  Software Engineer 1 at MAQ Software, specializing in Data Engineering and Analytics. \
+💼  Software Engineer 2 at MAQ Software, specializing in Data Engineering and Analytics. \
 🎓  Graduated with a B.Tech in Computer Science & Engineering from NIT Raipur. \
 🏗️  Experienced in building automated ETL pipelines using Azure Fabric, Data Factory, and Databricks. \
 📊  Skilled in Power BI, SQL, and Microsoft Fabric for developing insightful dashboards and scalable data solutions. \
